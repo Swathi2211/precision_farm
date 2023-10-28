@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Swathi2211/precision_farm/static/css/main.7f78349a.css",
+    "main.js": "/Swathi2211/precision_farm/static/js/main.1fde0cba.js",
+    "static/js/787.81317b14.chunk.js": "/Swathi2211/precision_farm/static/js/787.81317b14.chunk.js",
+    "static/media/vdo.mp4": "/Swathi2211/precision_farm/static/media/vdo.0e2a20f5da3bedb9a518.mp4",
+    "static/media/bg_img3.jpg": "/Swathi2211/precision_farm/static/media/bg_img3.cc10611530d1173dbd85.jpg",
+    "static/media/op2.png": "/Swathi2211/precision_farm/static/media/op2.f3a7539c685641c074e0.png",
+    "static/media/vdo_img.jpg": "/Swathi2211/precision_farm/static/media/vdo_img.7fc5b4a0ec015d2d0d18.jpg",
+    "static/media/op1.png": "/Swathi2211/precision_farm/static/media/op1.64183bb0815043407476.png",
+    "static/media/op3.png": "/Swathi2211/precision_farm/static/media/op3.24ab465df2a8325b4b85.png",
+    "static/media/op4.png": "/Swathi2211/precision_farm/static/media/op4.582f8f1734fcc717b4b8.png",
+    "static/media/bg_img.jpg": "/Swathi2211/precision_farm/static/media/bg_img.0de2b79407582a9b870a.jpg",
+    "static/media/logo.svg": "/Swathi2211/precision_farm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Swathi2211/precision_farm/index.html",
+    "main.7f78349a.css.map": "/Swathi2211/precision_farm/static/css/main.7f78349a.css.map",
+    "main.1fde0cba.js.map": "/Swathi2211/precision_farm/static/js/main.1fde0cba.js.map",
+    "787.81317b14.chunk.js.map": "/Swathi2211/precision_farm/static/js/787.81317b14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f78349a.css",
+    "static/js/main.1fde0cba.js"
+  ]
+}
