@@ -1,0 +1,56 @@
+.spbg{
+    content: " ";
+    background: url("../images/bg_img3.jpg") no-repeat center/cover;
+    width: 100%;
+    height: 738px;
+    position: absolute;
+}
+.spcont{
+    width: 75%;
+    height: 720px;
+    position: relative;
+    margin-left: 180px;
+    overflow-y: scroll;
+}
+.sptopic{
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+
+}
+.splinks{
+    background-color: transparent;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+}
+.spabs{
+    background-color: white;
+    justify-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    margin-top: 40px;
+}
+.spvideo{
+    background-color: white;
+    padding: 20px;
+    padding-left: 70px;
+    padding-right: 70px;
+}
+.spabs h2, .spvideo h2, .spout h2{
+    text-align: center;
+}
+.spout{
+    background-color: white;
+    padding: 30px;
+    justify-content: center;
+}
+.sp1{
+    margin-top: 50px;
+}
+.spoutimg1 img{
+    height: 300px;
+    margin-left: 100px;
+}
